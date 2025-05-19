@@ -71,7 +71,7 @@ If any construct fails, fix it **first** (drop/reword items or merge highly-over
 >   
 > **Discussion (Ch. 5)**  
 > 1. **Key findings vs. hypotheses** (supported / partially / not supported)  
-> 2. **Comparison with recent SOR research on plant-based foods** – e.g., Thai consumers’ online PBF study citeturn0search0 and bibliometric SOR review citeturn0search8  
+> 2. **Comparison with recent SOR research on plant-based foods** – e.g., [Thai consumers’ online PBF study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11096942/) and [bibliometric SOR review](https://www.researchgate.net/publication/387980300_Bibliometric_Analysis_of_Stimulus-Organism-_Response_Theory_Past_Developments_Current_Applications_and_Future_Trends)  
 > 3. **Managerial implications** – highlight social-media and identity cues, leverage self-efficacy messages.  
 > 4. **Theoretical implications** – refine SOR in sustainable food context; health–attitude link is context-dependent.  
 > 5. **Limitations & future agenda.**
